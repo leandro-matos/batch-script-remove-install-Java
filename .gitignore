@@ -1,0 +1,11 @@
+# Created by https://www.toptal.com/developers/gitignore/api/batch
+# Edit at https://www.toptal.com/developers/gitignore?templates=batch
+
+### Batch ###
+# BatchFiles
+*.cmd
+*.btm
+*.log
+
+
+# End of https://www.toptal.com/developers/gitignore/api/batch
